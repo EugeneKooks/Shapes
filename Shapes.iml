@@ -32,7 +32,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/by/kooks/observer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/by/kooks/service" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java/by/kooks/stock" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/src/by" />
       <excludeFolder url="file://$MODULE_DIR$/src/by/kooks" />
       <excludeFolder url="file://$MODULE_DIR$/src/by/kooks/eugene" />
